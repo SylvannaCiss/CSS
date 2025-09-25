@@ -9,16 +9,26 @@ h2{
 
 .texto-morado{
     color:blueviolet;
+    font-weight: 400px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .texto-violeta{
     color:rgba(137, 43, 226, 0.692);
+    font-weight: 400px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .texto-purpura{
     color:rgba(137, 43, 226, 0.63);
+    font-weight: 400px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .texto-moradofuerte{
     color:rgba(137, 43, 226, 0.562);
+    font-weight: 400px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .texto-azul{
     color:rgba(55, 43, 226, 0.418);
+    font-weight: 400px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
